@@ -1,0 +1,4 @@
+# Ignorar node_modules em todas as pastas
+node_modules/
+ett-portal-backend/node_modules/
+ett-portal-frontend/node_modules/
